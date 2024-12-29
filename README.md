@@ -16,25 +16,3 @@ Database: SQLite (default) or configurable to others like PostgreSQL
 Authentication: Django's built-in authentication system
 Feel free to contribute, explore, and enhance this project! 🎉
 
-How to Run:
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/books-website.git
-Navigate to the project directory:
-bash
-Copy code
-cd books-website
-Install dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Run migrations:
-bash
-Copy code
-python manage.py migrate
-Start the server:
-bash
-Copy code
-python manage.py runserver
-Visit the application at: http://127.0.0.1:8000
